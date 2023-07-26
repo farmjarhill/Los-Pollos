@@ -133,9 +133,9 @@ section {
 }
 
 .home-img img {
-    padding-top: 100px;
+    padding-top: 55px;
     height: auto;
-    width: 100%;
+    width: 90%;
     object-fit: contain;
 }
 
